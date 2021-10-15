@@ -23,7 +23,9 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
-
+body{
+  background-color: #282c34;
+}
 .App-link {
   color: #61dafb;
 }
@@ -35,4 +37,11 @@
   to {
     transform: rotate(360deg);
   }
+}
+.fonts{
+  color: white;
+}
+.commonHighliter{
+  background: rgb(40, 68, 92);
+
 }
